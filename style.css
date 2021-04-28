@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    
+}
+.card{
+    width: 550px;
+    height: 250px;
+    box-sizing: border-box;
+    background-image: url(assets/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+
+}   
+
+a{
+    text-decoration:underline;
+    color: black;
+}
+
+
+.LinkedIn{
+    
+    list-style-image: url(assets/in.png.jpeg);
+}
+
+.GitHub{
+    list-style-image: url(assets/git.png.jpeg);
+}
+.insta{
+    list-style-image: url(assets/insta.png.jpeg);
+}
